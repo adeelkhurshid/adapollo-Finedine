@@ -1,0 +1,7 @@
+{
+  "buildCommand": "cd adapollo-web && npm install && npm run build",
+  "outputDirectory": "adapollo-web/.next",
+  "installCommand": "cd adapollo-web && npm install",
+  "devCommand": "cd adapollo-web && npm run dev",
+  "framework": "nextjs"
+}
